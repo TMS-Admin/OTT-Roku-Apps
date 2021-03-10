@@ -1,0 +1,3 @@
+{
+  "vastTag": "https://search.spotxchange.com/vast/3.0/79391?VPI=MP4&app[bundle]=ROKU_ADS_APP_ID&app[name]=RokuDevAccount&app[ver]=ROKU_ADS_APP_VERSION&device[ifa]=ROKU_ADS_TRACKING_ID&device[dnt]=ROKU_ADS_LIMIT_TRACKING&device[make]=ROKU&device[model]=ROKU_ADS_DEVICE_MODEL&cb=ROKU_ADS_CACHE_BUSTER&ssai[enabled]=0&pod[size]=3&pod[max_pod_dur]=90&player_width=ROKU_ADS_DISPLAY_WIDTH&player_height=ROKU_ADS_DISPLAY_HEIGHT&content[genre]=ROKU_ADS_CONTENT_GENRE&content[title]=ROKU_ADS_CONTENT_ID"
+}
