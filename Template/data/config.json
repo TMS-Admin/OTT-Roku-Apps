@@ -8,7 +8,6 @@
     ],
   "perPage": 25,
   "sort": "date",
-  "direction": "desc",
+  "direction": "desc"
 
-  "themes":  [ "Main"  ]
 }
