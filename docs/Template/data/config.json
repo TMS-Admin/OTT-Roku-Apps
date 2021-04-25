@@ -1,3 +1,3 @@
 {
-  "vastTag": "http://s.vertamedia.com/?width=[replace_me]&height=[replace_me]&cb=[replace_me]&ua=[replace_me]&uip=[replace_me]&app_name=[replace_me]&app_bundle=[replace_me]&device_model=[replace_me]&device_make=[replace_me]&device_category=[replace_me]&app_store_url=[replace_me]&appuid=[replace_me]&device_id=[replace_me]&vast_version=2&aid=621110"
+  "vastTag": "http://s.vertamedia.com/?width=ROKU_ADS_DISPLAY_WIDTH&height=ROKU_ADS_DISPLAY_HEIGHT&cb=ROKU_ADS_CACHE_BUSTER&ua=ROKU_ADS_USER_AGENT&uip=ROKU_ADS_EXTERNAL_IP&app_name=ROKU_ADS_APP_ID&app_bundle=ROKU_ADS_APP_ID&device_model=ROKU_ADS_DEVICE_MODEL&device_make=Roku&device_category=OTT&app_store_url=https%3A%2F%2Fchannelstore.roku.com%2Fdetails%2FROKU_ADS_APP_ID&appuid=ROKU_ADS_APP_ID&device_id=ROKU_ADS_TRACKING_ID&vast_version=2&aid=621110"
 }
